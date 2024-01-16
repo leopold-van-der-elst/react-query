@@ -1,0 +1,24 @@
+{
+  "rq-super-heroes": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": "2",
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker"
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "Jean"
+    },
+    {
+      "id": "2",
+      "name": "Briac"
+    }
+  ]
+}
